@@ -1,0 +1,1 @@
+if you download to view these files, make sure to put the images in the images folder to access the images as they would appear on the pages. if any trouble reach me at LadyLori@gmail.com or 256-633-0283
