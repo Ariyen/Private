@@ -1,4 +1,4 @@
-if you download to view these files, make sure to put the images in the images folder to access the images as they would appear on the pages. if any trouble reach me at LadyLori@gmail.com or 256-633-0283
+If you download to view these files, make sure to put the images in the images folder to access the images as they would appear on the pages. if any trouble reach me at LadyLori@gmail.com or 256-633-0283
 
 This project is intended for a domain usage to link to the social medias as they are LINKED in the appropriate pages. To deter the Imposter Accounts, etc. from constantly trying to manipulate, etc. fans into believing things that are NOT true or REAL. Nothing More than that is to be taken of this, no other information is necessary to be added, and if so can be easily done by looking at source code of the file and "manipulating" adding in the appropriate information or contacting me for a new file in it's place. 
 
